@@ -28,7 +28,7 @@ Este proyecto tiene como objetivo analizar los factores que influyeron en la sup
 
 [Dataset Completo](https://www.kaggle.com/competitions/titanic/overview)
 
-Este conjunto de datos contiene información sobre los pasajeros del Titanic, incluyendo su edad, género, clase de boleto, tarifa, etc. El objetivo es predecir si un pasajero sobrevivió o no al hundimiento del Titanic. El conjunto de datos tiene 12 columnas y 1309 filas. 
+Este conjunto de datos contiene información sobre los pasajeros del Titanic, incluyendo su edad, género, clase de boleto, tarifa, etc. El objetivo es predecir si un pasajero sobrevivió o no al hundimiento del Titanic. El conjunto de datos tiene 12 columnas y 1309 filas entre el dataset Train y Test. 
 
 Algunas de las columnas son:
 
