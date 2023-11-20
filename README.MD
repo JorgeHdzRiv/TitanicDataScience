@@ -17,6 +17,13 @@ Análisis y predeccion de la supervivencia en el Titanic
 
 Este proyecto tiene como objetivo analizar los factores que influyeron en la supervivencia de los pasajeros del Titanic y crear un modelo predictivo para determinar si un pasajero sobrevivió o no al hundimiento del Titanic.
 
+Los datos se han dividido en dos grupos:
+
+- Conjunto de entrenamiento (train.csv): Debe usarse para construir sus modelos de aprendizaje automático.
+- Conjunto de prueba (test.csv): Debe usarse para ver qué tan bien se desempeña su modelo con datos invisibles.
+
+
+
 ## Objetivos
 
 * Realizar un análisis exploratorio de datos para comprender la distribución y relaciones en el conjunto de datos.
