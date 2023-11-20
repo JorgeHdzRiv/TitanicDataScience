@@ -39,13 +39,13 @@ Este conjunto de datos contiene información sobre los pasajeros del Titanic, in
 
 Algunas de las columnas son:
 
-Pclass: La clase del boleto del pasajero (1 = primera clase, 2 = segunda clase, 3 = tercera clase).
-Sex: El género del pasajero.
-Age: La edad del pasajero.
-SibSp: El número de hermanos/cónyuges a bordo.
-Parch: El número de padres/hijos a bordo.
-Fare: La tarifa pagada por el pasajero.
-Embarked: El puerto de embarque del pasajero (C = Cherbourg, Q = Queenstown, S = Southampton).
+- Pclass: La clase del boleto del pasajero (1 = primera clase, 2 = segunda clase, 3 = tercera clase).
+- Sex: El género del pasajero.
+- Age: La edad del pasajero.
+- SibSp: El número de hermanos/cónyuges a bordo.
+- Parch: El número de padres/hijos a bordo.
+- Fare: La tarifa pagada por el pasajero.
+- Embarked: El puerto de embarque del pasajero (C = Cherbourg, Q = Queenstown, S = Southampton).
 
 ## Métodos
 
